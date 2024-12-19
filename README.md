@@ -1,4 +1,4 @@
-# Hi there 👋 |  ![](https://komarev.com/ghpvc/?username=Saibo-creator)
+# Hi there 👋 
 
 - 🎓 I’m currently a PhD student in CS at EPFL [Data Science Lab](https://dlab.epfl.ch/)
 - 🌱 My research interest is **reliable and controllable LLM generation via constrained decoding**
