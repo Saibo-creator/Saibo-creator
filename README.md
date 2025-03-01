@@ -9,5 +9,6 @@
 
 ## My Open Source Projects on Github
 
-- [epfl-dlab/transformers-CFG](https://github.com/epfl-dlab/transformers-CFG): A library to extend Huggingface Transformers with constrained decoding methods for LLM
+- [transformers-CFG](https://github.com/epfl-dlab/transformers-CFG): A library to extend Huggingface Transformers with constrained decoding methods for LLM
 - [Awesome-LLM-Constrained-Decoding](https://github.com/Saibo-creator/Awesome-LLM-Constrained-Decoding): A curated list of papers and resources on constrained decoding methods for LLM
+- [JsonSchemaBench](https://github.com/guidance-ai/jsonschemabench): The first systematic investigation into the performance of constrained decoding frameworks for LLM
