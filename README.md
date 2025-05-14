@@ -11,4 +11,5 @@
 
 - [Transformers-CFG](https://github.com/epfl-dlab/transformers-CFG): A library to extend Huggingface Transformers with constrained decoding methods for LLM
 - [Awesome-LLM-Constrained-Decoding](https://github.com/Saibo-creator/Awesome-LLM-Constrained-Decoding): A curated list of papers and resources on constrained decoding methods for LLM
-- [JsonSchemaBench](https://github.com/guidance-ai/jsonschemabench): The first systematic investigation into the performance of constrained decoding frameworks for LLM
+- [JsonSchemaBench](https://github.com/guidance-ai/jsonschemabench): The first systematic investigation into the performance of constrained decoding frameworks for LLM, alo available on [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness/tree/main/lm_eval/tasks/jsonschema_bench)
+- [JsonSchemaBench-Leaderboard](https://docs.google.com/spreadsheets/d/1gloUwsKiiOgrBmxbNluh-2_-vV_6RgaPji6KAD52pv0/edit?usp=sharing): Tracking the evolution of LLM capacity on structured generation.
